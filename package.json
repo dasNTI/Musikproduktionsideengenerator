@@ -1,0 +1,17 @@
+{
+  "name": "genres",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "fs": "0.0.1-security",
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
